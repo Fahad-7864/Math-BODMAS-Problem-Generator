@@ -1,6 +1,7 @@
 # Math-BODMAS-Problem-Generator
  A console application quiz created with C# and .NET that generates 20 random arithmetic questions. The first 10 focus on basic operations, while the last 10 introduce BODMAS concepts with more complex expressions. This tool can help primary school students practice math questions.
 
+![image](https://github.com/user-attachments/assets/b1139e35-bf48-4cff-9a9d-d149a451dcfc)
 
 Discussing my approach for this application
 
